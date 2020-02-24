@@ -26,17 +26,17 @@ Archivos tipo JS
 
 
 -Para abrir archivos de tipo HTML abrir el link:
-https://taller-clientes-y-servicios.herokuapp.com/pagina.html
+https://lab4-arem.herokuapp.com/pagina.html
 
 -Para abrir archivos de tipo JPG o PNG abrir el link:
 
-https://taller-clientes-y-servicios.herokuapp.com/carro.jpg
+https://lab4-arem.herokuapp.com/carro.jpg
 
-https://taller-clientes-y-servicios.herokuapp.com/dado.png
+https://lab4-arem.herokuapp.com/dado.png
 
 -Para abrir archivos JS abrir el link:
 
-https://taller-clientes-y-servicios.herokuapp.com/java.js
+https://lab4-arem.herokuapp.com/java.js
 
 
 
